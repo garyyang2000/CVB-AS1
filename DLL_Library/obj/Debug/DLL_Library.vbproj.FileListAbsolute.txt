@@ -1,0 +1,11 @@
+C:\Users\Wendy Meng\Documents\Seneca DAD\CVB\InnoOrderTrackSys\DLL_Library\DLL_Library\obj\Debug\DLL_Library.vbprojResolveAssemblyReference.cache
+C:\Users\Wendy Meng\Documents\Seneca DAD\CVB\InnoOrderTrackSys\DLL_Library\DLL_Library\obj\Debug\DLL_Library.Resources.resources
+C:\Users\Wendy Meng\Documents\Seneca DAD\CVB\InnoOrderTrackSys\DLL_Library\DLL_Library\obj\Debug\DLL_Library.vbproj.GenerateResource.Cache
+C:\Users\Wendy Meng\Documents\Seneca DAD\CVB\InnoOrderTrackSys\DLL_Library\DLL_Library\bin\Debug\DLL_Library.dll
+C:\Users\Wendy Meng\Documents\Seneca DAD\CVB\InnoOrderTrackSys\DLL_Library\DLL_Library\bin\Debug\DLL_Library.pdb
+C:\Users\Wendy Meng\Documents\Seneca DAD\CVB\InnoOrderTrackSys\DLL_Library\DLL_Library\bin\Debug\DLL_Library.xml
+C:\Users\Wendy Meng\Documents\Seneca DAD\CVB\InnoOrderTrackSys\DLL_Library\DLL_Library\bin\Debug\CSLib.dll
+C:\Users\Wendy Meng\Documents\Seneca DAD\CVB\InnoOrderTrackSys\DLL_Library\DLL_Library\bin\Debug\CSLib.pdb
+C:\Users\Wendy Meng\Documents\Seneca DAD\CVB\InnoOrderTrackSys\DLL_Library\DLL_Library\obj\Debug\DLL_Library.dll
+C:\Users\Wendy Meng\Documents\Seneca DAD\CVB\InnoOrderTrackSys\DLL_Library\DLL_Library\obj\Debug\DLL_Library.xml
+C:\Users\Wendy Meng\Documents\Seneca DAD\CVB\InnoOrderTrackSys\DLL_Library\DLL_Library\obj\Debug\DLL_Library.pdb

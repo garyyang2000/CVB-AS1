@@ -1,0 +1,15 @@
+C:\Users\Wendy Meng\Documents\Seneca DAD\CVB\InnoOrderTrackSys\DLL_Library\InnoOrderTrack\bin\Debug\InnoOrderTrack.exe.config
+C:\Users\Wendy Meng\Documents\Seneca DAD\CVB\InnoOrderTrackSys\DLL_Library\InnoOrderTrack\obj\Debug\InnoOrderTrack.vbprojResolveAssemblyReference.cache
+C:\Users\Wendy Meng\Documents\Seneca DAD\CVB\InnoOrderTrackSys\DLL_Library\InnoOrderTrack\obj\Debug\InnoOrderTrack.Resources.resources
+C:\Users\Wendy Meng\Documents\Seneca DAD\CVB\InnoOrderTrackSys\DLL_Library\InnoOrderTrack\obj\Debug\InnoOrderTrack.vbproj.GenerateResource.Cache
+C:\Users\Wendy Meng\Documents\Seneca DAD\CVB\InnoOrderTrackSys\DLL_Library\InnoOrderTrack\bin\Debug\InnoOrderTrack.exe
+C:\Users\Wendy Meng\Documents\Seneca DAD\CVB\InnoOrderTrackSys\DLL_Library\InnoOrderTrack\bin\Debug\InnoOrderTrack.pdb
+C:\Users\Wendy Meng\Documents\Seneca DAD\CVB\InnoOrderTrackSys\DLL_Library\InnoOrderTrack\bin\Debug\InnoOrderTrack.xml
+C:\Users\Wendy Meng\Documents\Seneca DAD\CVB\InnoOrderTrackSys\DLL_Library\InnoOrderTrack\bin\Debug\CSLib.dll
+C:\Users\Wendy Meng\Documents\Seneca DAD\CVB\InnoOrderTrackSys\DLL_Library\InnoOrderTrack\bin\Debug\DLL_Library.dll
+C:\Users\Wendy Meng\Documents\Seneca DAD\CVB\InnoOrderTrackSys\DLL_Library\InnoOrderTrack\bin\Debug\CSLib.pdb
+C:\Users\Wendy Meng\Documents\Seneca DAD\CVB\InnoOrderTrackSys\DLL_Library\InnoOrderTrack\bin\Debug\DLL_Library.pdb
+C:\Users\Wendy Meng\Documents\Seneca DAD\CVB\InnoOrderTrackSys\DLL_Library\InnoOrderTrack\bin\Debug\DLL_Library.xml
+C:\Users\Wendy Meng\Documents\Seneca DAD\CVB\InnoOrderTrackSys\DLL_Library\InnoOrderTrack\obj\Debug\InnoOrderTrack.exe
+C:\Users\Wendy Meng\Documents\Seneca DAD\CVB\InnoOrderTrackSys\DLL_Library\InnoOrderTrack\obj\Debug\InnoOrderTrack.xml
+C:\Users\Wendy Meng\Documents\Seneca DAD\CVB\InnoOrderTrackSys\DLL_Library\InnoOrderTrack\obj\Debug\InnoOrderTrack.pdb
